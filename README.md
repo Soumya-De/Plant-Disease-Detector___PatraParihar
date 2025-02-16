@@ -1,1 +1,1 @@
-Plant Diseases Detector App. The app name is Patra Parihar.
+Plant Diseases Detector App. The app's name is Patra Parihar.
